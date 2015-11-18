@@ -101,6 +101,7 @@ if has('langmap') && exists('+langnoremap')
   set langnoremap
 endif
 
+
 set number
 set background=dark
 let base16colorspace=256
